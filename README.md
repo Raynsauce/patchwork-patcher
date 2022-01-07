@@ -1,4 +1,4 @@
-# **THIS IS NO LONGER BEING MAINTAINED, A REPLACEMENT IS BEING DEVELOPED BEHIND THE SCENES**
+# **NO LONGER MAINTAINED BY PatchworkMC, THIS FORK IS ARCHIVAL UNTIL I LEARN MORE JAVA**
 # Patchwork: Patcher
 
 Patchwork Patcher is a set of tools for transforming and patching Forge mod jars into jars that are directly loadable by Fabric Loader. It does the following things currently:
